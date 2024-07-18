@@ -1,6 +1,7 @@
 # Merkle Airdrop
 
-This repo is a project of an Airdrop using merkle proofs. This project is built using Foundry.
+This repo is a project of an Airdrop using merkle proofs. This project is built using Foundry. This project consists of a contract `MerkleAirdrop.sol` which holds all logic for the Airdrop and `Token.sol` which is a simple Token for showing how this airdrop works.
+
 
 ## Foundry
 
